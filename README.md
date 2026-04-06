@@ -6,3 +6,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn">
 </a>
 
+<a href="https://www.linkedin.com/in/mikell-porter/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn Profile">
+</a>
