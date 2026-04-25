@@ -11,9 +11,16 @@ CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into net
 | Skill                                         |  Project                   |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">Home Lab</a>|
+
+
+
+
+## 📝 Notes
+
+| Category                                      | Reference                                   |
+|-----------------------------------------------|---------------------------------------------|
 | Unbuntu Linx Commands                         | <a href="https://github.com/mikellporter/Unbuntu-Linx-Commands/blob/main/README.md">Linx Command List</a>|
 | Windows Commands                              | <a href="https://github.com/mikellporter/Windows-CMD-Powershell-Commands/blob/main/README.md">CMD Powershell Command List</a>|
-
 
 
 ## 🎖️Certifications
