@@ -4,9 +4,6 @@
 
 CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into networking, cloud security, and AppSec. Self-taught through years of hands-on experience — building and configuring PCs, installing OSes, optimizing systems for multimedia workflows, and working across Windows, MacOS utilizing Microsoft, Adobe, and Google applications. Using a VM home lab to sharpen my skills in networking and security fundamentals. No corporate title yet, but plenty of drive and eager to bring these practical skills into a real-world environment. Open to IT support, helpdesk, and entry-level security roles.
 
-## 🎖️Certifications
-
-<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/c94e3dcc7b7c4f2cba036fcd5bc0b955"><img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=64&q=60" />
 
 
 ## 🖥️ Labs 
@@ -16,3 +13,9 @@ CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into net
 | Active Directory                              | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">Home Lab</a>|
 | Unbuntu Linx Commands                         | <a href="https://github.com/mikellporter/Unbuntu-Linx-Commands/blob/main/README.md">Linx Command List</a>|
 | Windows Commands                              | <a href="https://github.com/mikellporter/Windows-CMD-Powershell-Commands/blob/main/README.md">CMD Powershell Command List</a>|
+
+
+
+## 🎖️Certifications
+
+<a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/c94e3dcc7b7c4f2cba036fcd5bc0b955"><img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages4.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=64&q=60" />
