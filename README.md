@@ -2,7 +2,7 @@
 
 [<img width="48" height="49" alt="image" src="https://github.com/user-attachments/assets/d48d352b-ccf9-4773-a774-33f2b42545ef" />](https://www.linkedin.com/in/mikell-porter/)
 
-CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into networking, cloud security, and AppSec. Self-taught through years of hands-on experience — building and configuring PCs, installing OSes, optimizing systems for multimedia workflows, and working across Windows, MacOS utilizing Microsoft, Adobe, and Google ecosystems. Recently built a VM home lab to sharpen my skills in networking and security fundamentals. No corporate title yet, but plenty of drive and eager to bring these practical skills into a real-world environment. Open to IT support, helpdesk, and entry-level security roles.
+CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into networking, cloud security, and AppSec. Self-taught through years of hands-on experience — building and configuring PCs, installing OSes, optimizing systems for multimedia workflows, and working across Windows, MacOS utilizing Microsoft, Adobe, and Google applications. Using a VM home lab to sharpen my skills in networking and security fundamentals. No corporate title yet, but plenty of drive and eager to bring these practical skills into a real-world environment. Open to IT support, helpdesk, and entry-level security roles.
 
 ## 🎖️Certifications
 
@@ -14,4 +14,5 @@ CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into net
 | Skill                                         |  Project                   |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">Home Lab</a>|
-|Unbuntu Linx Commands                          | <a href="https://github.com/mikellporter/Unbuntu-Linx-Commands/blob/main/README.md">Unbuntu Linx Commands</a>
+| Unbuntu Linx Commands                         | <a href="https://github.com/mikellporter/Unbuntu-Linx-Commands/blob/main/README.md">Linx Command List</a>|
+| Windows Commands                              | <a href="https://github.com/mikellporter/Windows-CMD-Powershell-Commands/blob/main/README.md">CMD Powershell Command List</a>|
