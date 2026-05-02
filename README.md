@@ -11,7 +11,7 @@ CompTIA Security+ certified | IT & cybersecurity enthusiast diving deep into net
 | Skill                                         |  Project                   |
 |-----------------------------------------------|----------------------------|
 | Active Directory                              | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">AD DS Home Lab</a>|
-| Network Traffic Analysis                      | <a href="">Network Traffic Home Lab</a>
+| Network Traffic Analysis                      | <a href="https://github.com/mikellporter/-Network-Traffic-Analysis-Home-Lab/edit/main/README.md">Network Traffic Home Lab</a>
 
 
 
