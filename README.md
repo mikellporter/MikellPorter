@@ -10,7 +10,7 @@ CompTIA Security+ certified | Self-taught through years of hands-on experience b
 
 | Skill                                         |  Project                   |
 |-----------------------------------------------|----------------------------|
-|Dion Training                                  | <a href=" ">Comptia Security Plus Labs<a/> |
+|Dion Training                                  | <a href="https://github.com/mikellporter/Jason-Dion-CompTIA-Security-Plus-Labs/tree/main">Comptia Security Plus Labs<a/> |
 | Active Directory                              | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">AD DS Home Lab</a>|
 | Network Traffic Analysis                      | <a href="https://github.com/mikellporter/-Network-Traffic-Analysis-Home-Lab/edit/main/README.md">Network Traffic Home Lab</a> |
 
