@@ -11,10 +11,9 @@ CompTIA Security+ certified | Self-taught through years of hands-on experience b
 
 | Skill                                         |  Project                   |
 |-----------------------------------------------|----------------------------|
-|  Dion Training                                | <a href="https://github.com/mikellporter/Jason-Dion-CompTIA-Security-Plus-Labs/tree/main">Comptia Security Plus Labs<a/> |
 |  Active Directory                             | <a href="https://github.com/mikellporter/Active-Directory-Home-Lab/blob/main/README.md">AD DS Home Lab</a>|
 |  Technical Support                            | |
-
+|  Dion Training                                | <a href="https://github.com/mikellporter/Jason-Dion-CompTIA-Security-Plus-Labs/tree/main">Comptia Security Plus Labs<a/> |
 
 ## 📝 Notes
 
